@@ -55,7 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaBeenCodin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<img align="right" height="183" src="https://media.giphy.com/media/Hm8ecpn9U1PZQlkxcl/giphy.gif?cid=ecf05e47vt7br8qnfjshrzsaehnlxy01johi4s4dpn74qjdr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/uv63c5n9or1kl0b20r91pb6r2">
