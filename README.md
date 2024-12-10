@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Osama and I'm a full stack developer from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Osama and I'm gonne be the king of react one day!</h2>
 
 ###
 
